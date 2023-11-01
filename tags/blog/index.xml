@@ -9,57 +9,30 @@
     <copyright>Copyright © 2023 MeducationX.</copyright>
     <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://meducationx.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Spooky Spectrum of Illnesses</title>
-      <link>https://meducationx.github.io/blog/third-post-copy-2/</link>
+      <title>Proteus Syndrome</title>
+      <link>https://meducationx.github.io/blog/proteus-syndrone/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://meducationx.github.io/blog/third-post-copy-2/</guid>
+      <guid>https://meducationx.github.io/blog/proteus-syndrone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purpura Fulminans</title>
+      <link>https://meducationx.github.io/blog/purpura-fulminans/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://meducationx.github.io/blog/purpura-fulminans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spooky Spectrum of Illnesses</title>
+      <link>https://meducationx.github.io/blog/blog-1/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://meducationx.github.io/blog/blog-1/</guid>
       <description>Many diseases and disorders affect populations all around the world. While some of them are more common, others are not as known.</description>
-    </item>
-    
-    <item>
-      <title>Third post</title>
-      <link>https://meducationx.github.io/blog/third-post-copy/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://meducationx.github.io/blog/third-post-copy/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id scelerisque ligula. Vestibulum eu lorem tortor. Suspendisse tristique ultrices mauris, non maximus lorem faucibus in.</description>
-    </item>
-    
-    <item>
-      <title>Third post</title>
-      <link>https://meducationx.github.io/blog/third-post/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://meducationx.github.io/blog/third-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id scelerisque ligula. Vestibulum eu lorem tortor. Suspendisse tristique ultrices mauris, non maximus lorem faucibus in.</description>
-    </item>
-    
-    <item>
-      <title>Second post</title>
-      <link>https://meducationx.github.io/blog/second-post-copy-2/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://meducationx.github.io/blog/second-post-copy-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non sollicitudin sapien. Ut porttitor lectus eu tempor ultricies. Sed semper tincidunt nibh pellentesque condimentum.</description>
-    </item>
-    
-    <item>
-      <title>Second post</title>
-      <link>https://meducationx.github.io/blog/second-post-copy/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://meducationx.github.io/blog/second-post-copy/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non sollicitudin sapien. Ut porttitor lectus eu tempor ultricies. Sed semper tincidunt nibh pellentesque condimentum.</description>
-    </item>
-    
-    <item>
-      <title>Second post</title>
-      <link>https://meducationx.github.io/blog/second-post/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://meducationx.github.io/blog/second-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non sollicitudin sapien. Ut porttitor lectus eu tempor ultricies. Sed semper tincidunt nibh pellentesque condimentum.</description>
     </item>
     
   </channel>
