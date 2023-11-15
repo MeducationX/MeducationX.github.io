@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://meducationx.github.io/about/</loc>
+    <lastmod>2023-10-10T17:27:58-05:00</lastmod>
+  </url><url>
     <loc>https://meducationx.github.io/tags/article/</loc>
-    <lastmod>2023-11-01T14:20:28-05:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://meducationx.github.io/tags/blog/</loc>
-    <lastmod>2023-11-01T16:41:40-05:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://meducationx.github.io/blog/blog-2/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://meducationx.github.io/tags/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://meducationx.github.io/blog/blog-1/</loc>
     <lastmod>2023-11-01T14:20:28-05:00</lastmod>
-  </url><url>
-    <loc>https://meducationx.github.io/tags/</loc>
-    <lastmod>2023-11-01T16:41:40-05:00</lastmod>
   </url><url>
     <loc>https://meducationx.github.io/tags/post/</loc>
     <lastmod>2023-11-01T16:41:40-05:00</lastmod>
@@ -40,9 +46,6 @@
   </url><url>
     <loc>https://meducationx.github.io/wafiyah/</loc>
     <lastmod>2023-11-02T00:19:54-05:00</lastmod>
-  </url><url>
-    <loc>https://meducationx.github.io/about/</loc>
-    <lastmod>2023-10-10T17:27:58-05:00</lastmod>
   </url><url>
     <loc>https://meducationx.github.io/blog/</loc>
     <lastmod>2023-10-10T18:51:00-05:00</lastmod>

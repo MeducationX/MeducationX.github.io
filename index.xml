@@ -8,6 +8,24 @@
     <language>en</language>
     <copyright>Copyright © 2023 MeducationX.</copyright><atom:link href="https://meducationx.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://meducationx.github.io/about/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://meducationx.github.io/about/</guid>
+      <description>At MeducationX, our commitment to spreading medical knowledge, improving community health, and providing essential life-saving skills is unwavering.Join us in our journey to empower individuals, improve community health, and make essential medical knowledge a universal resource.</description>
+    </item>
+    
+    <item>
+      <title>Caffeine</title>
+      <link>https://meducationx.github.io/blog/blog-2/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://meducationx.github.io/blog/blog-2/</guid>
+      <description>Caffeine is a natural stimulant found in coffee beans, tea leaves, cocoa beans, and some other plants. It is frequently added to a variety of items, such as energy drinks and some pharmaceuticals, and consumed in drinks like coffee and tea.</description>
+    </item>
+    
+    <item>
       <title>Spooky Spectrum of Illnesses</title>
       <link>https://meducationx.github.io/blog/blog-1/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
@@ -98,17 +116,6 @@ As the Founder and President of MeducationX, Sahad embarked on this journey driv
       <guid>https://meducationx.github.io/wafiyah/</guid>
       <description>About Wafiya:
 Likes/Hobbies: Chemistry, Painting, Calligraphy, Learning Languages, Cooking, Working Out</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://meducationx.github.io/about/</link>
-      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://meducationx.github.io/about/</guid>
-      <description>Bootstrap framework
-Build fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files.
-Full text search</description>
     </item>
     
     <item>
