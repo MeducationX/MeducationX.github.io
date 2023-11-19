@@ -7,7 +7,7 @@
     <meta name="generator" content="Hugo 0.115.4">
     
 
-<link rel="stylesheet" href="/css/main.ef3e719e87dca5dc82f8cb9fe045f4279f018c116b50d3b4a3b59063c47dab8c.css" integrity="sha256-7z5xnofcpdyC+Muf4EX0J58BjBFrUNO0o7WQY8R9q4w=" crossorigin="anonymous"><link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="stylesheet" href="/css/main.164d723ff32a80c04be19e5831dd8982d02a64cf3704eb62495102ed0f6bf77f.css" integrity="sha256-Fk1yP/MqgMBL4Z5YMd2JgtAqZM83BOtiSVEC7Q9r938=" crossorigin="anonymous"><link rel="preconnect" href="https://fonts.googleapis.com"> 
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu&amp;display=swap">
 
@@ -145,7 +145,19 @@
     
 
 </head>
-    <body><div class="d-flex flex-column meducation-background min-vh-100">
+    <script>
+        var myVar;
+        
+        function SiteLoaded() {
+          myVar = setTimeout(showPage, 3000);
+        }
+        
+        function showPage() {
+          document.getElementById("loader").style.display = "none";
+        }
+        </script>
+    <body onload="SiteLoaded()">
+        <div id="loader" class="lds-ripple" style="z-index: 999999; display: none;"><div></div><div></div></div><div class="d-flex flex-column meducation-background min-vh-100">
             <div class="mb-4">
 
 
@@ -189,6 +201,10 @@
     
     data-nav="main" data-nav-main="team" 
     href="/team" ><span >Team</span>&nbsp;</a>
+</li><li class="nav-item"><a class="nav-link" 
+    
+    data-nav="main" data-nav-main="posts" 
+    href="/posts" ><span >Posts</span>&nbsp;</a>
 </li><li class="nav-item"><a class="nav-link" 
     
     data-nav="main" data-nav-main="tags" 
@@ -361,7 +377,7 @@
     <div class="toast-body">Code copied to clipboard</div>
 </div>
 </div>
-<script src="/js/main.bundle.min.2f270fe6ff9fb9450d127018d7384fe88d27830a2d2d9447955a7e267de3cf33.js" integrity="sha256-LycP5v&#43;fuUUNEnAY1zhP6I0ngwotLZRHlVp&#43;Jn3jzzM=" crossorigin="anonymous"></script>
+<script src="/js/main.bundle.min.9cb38840f6e9dc5a0ba706c934b0bb674a117293a2593127918fcbf3e7b3000b.js" integrity="sha256-nLOIQPbp3FoLpwbJNLC7Z0oRcpOiWTEnkY/L8&#43;ezAAs=" crossorigin="anonymous"></script>
     </body>
     <script type="text/javascript" src="/js/magicmouse-2.0.0.cdn.min.js"></script>
 <script type="text/javascript">
