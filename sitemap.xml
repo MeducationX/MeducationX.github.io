@@ -2,39 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://meducationx.github.io/categories/blog/</loc>
+    <loc>http://100.84.25.87:1313/categories/blog/</loc>
     <lastmod>2023-11-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://meducationx.github.io/post/</loc>
+    <loc>http://100.84.25.87:1313/post/</loc>
     <lastmod>2023-11-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://meducationx.github.io/post/blog-2/</loc>
+    <loc>http://100.84.25.87:1313/post/blog-2/</loc>
     <lastmod>2023-11-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://meducationx.github.io/categories/</loc>
+    <loc>http://100.84.25.87:1313/categories/</loc>
     <lastmod>2023-11-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://meducationx.github.io/</loc>
+    <loc>http://100.84.25.87:1313/</loc>
     <lastmod>2023-11-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://meducationx.github.io/post/blog-1/</loc>
+    <loc>http://100.84.25.87:1313/post/blog-1-copy/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://meducationx.github.io/categories/about/</loc>
+    <loc>http://100.84.25.87:1313/post/blog-1/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://100.84.25.87:1313/categories/about/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://meducationx.github.io/thankyou/</loc>
+    <loc>http://100.84.25.87:1313/thankyou/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://meducationx.github.io/about/</loc>
+    <loc>http://100.84.25.87:1313/about/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://meducationx.github.io/contact/</loc>
+    <loc>http://100.84.25.87:1313/contact/</loc>
   </url><url>
-    <loc>https://meducationx.github.io/privacy-policy/</loc>
+    <loc>http://100.84.25.87:1313/privacy-policy/</loc>
   </url><url>
-    <loc>https://meducationx.github.io/search/</loc>
+    <loc>http://100.84.25.87:1313/search/</loc>
   </url><url>
-    <loc>https://meducationx.github.io/tags/</loc>
+    <loc>http://100.84.25.87:1313/tags/</loc>
   </url>
 </urlset>
