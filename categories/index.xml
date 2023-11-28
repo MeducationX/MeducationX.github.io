@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Meducation | Get Meducated</title>
-    <link>http://100.84.25.87:1313/categories/</link>
+    <link>https://meducationx.github.io/categories/</link>
     <description>Recent content in Categories on Meducation | Get Meducated</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2023 [MeducationX](https://meducation.github.io/)</copyright>
-    <lastBuildDate>Tue, 14 Nov 2023 15:40:24 +0600</lastBuildDate><atom:link href="http://100.84.25.87:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 15:40:24 +0600</lastBuildDate><atom:link href="https://meducationx.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>http://100.84.25.87:1313/categories/blog/</link>
+      <link>https://meducationx.github.io/categories/blog/</link>
       <pubDate>Tue, 14 Nov 2023 15:40:24 +0600</pubDate>
       
-      <guid>http://100.84.25.87:1313/categories/blog/</guid>
+      <guid>https://meducationx.github.io/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://100.84.25.87:1313/categories/about/</link>
+      <link>https://meducationx.github.io/categories/about/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://100.84.25.87:1313/categories/about/</guid>
+      <guid>https://meducationx.github.io/categories/about/</guid>
       <description></description>
     </item>
     

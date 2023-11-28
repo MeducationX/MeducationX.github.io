@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact Us on Meducation | Get Meducated</title>
-    <link>http://100.84.25.87:1313/contact/</link>
+    <link>https://meducationx.github.io/contact/</link>
     <description>Recent content in Contact Us on Meducation | Get Meducated</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2023 [MeducationX](https://meducation.github.io/)</copyright><atom:link href="http://100.84.25.87:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2023 [MeducationX](https://meducation.github.io/)</copyright><atom:link href="https://meducationx.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
