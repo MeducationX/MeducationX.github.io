@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meducation | Get Meducated</title>
-    <link>https://meducationx.github.io/</link>
-    <description>Recent content on Meducation | Get Meducated</description>
+    <title>blog on Meducation | Get Meducated</title>
+    <link>https://meducationx.github.io/categories/blog/</link>
+    <description>Recent content in blog on Meducation | Get Meducated</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2023 [MeducationX](https://meducation.github.io/)</copyright>
-    <lastBuildDate>Tue, 14 Nov 2023 15:40:24 +0600</lastBuildDate><atom:link href="https://meducationx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 15:40:24 +0600</lastBuildDate><atom:link href="https://meducationx.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Caffeine</title>
       <link>https://meducationx.github.io/post/blog-2/</link>
