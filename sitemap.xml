@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://meducationx.github.io/quizzes/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://meducationx.github.io/quizzes/quiz-1/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://meducationx.github.io/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://meducationx.github.io/categories/blog/</loc>
     <lastmod>2023-11-14T15:40:24+06:00</lastmod>
   </url><url>
@@ -14,14 +23,8 @@
     <loc>https://meducationx.github.io/categories/</loc>
     <lastmod>2023-11-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://meducationx.github.io/</loc>
-    <lastmod>2023-11-14T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>https://meducationx.github.io/post/blog-1/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://meducationx.github.io/categories/about/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://meducationx.github.io/thankyou/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
