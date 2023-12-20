@@ -232,6 +232,10 @@ body {
   transition: 0.2s;
   transition-timing-function: ease-in-out; }
 
+.instafeed {
+  display: grid;
+  grid-template-columns: auto auto; }
+
 .content {
   padding: 10px;
   background-color: #fefefe;
