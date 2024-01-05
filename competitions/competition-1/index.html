@@ -265,6 +265,45 @@
 <br>
 <h5 id="after-reading-both-the-documents-mentioned-above-use-the-form-below-to-submit-your-work"><strong>AFTER</strong> reading <strong>both</strong> the documents mentioned above, use the form below to submit your work.</h5>
 </div>
+        <br>
+
+        
+        <script>
+          
+          var countDownDate = new Date("February 28, 2024").getTime();
+          
+          
+          var x = setInterval(function() {
+          
+            
+            var now = new Date().getTime();
+          
+            
+            var distance = countDownDate - now;
+          
+            
+            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+          
+            
+            document.getElementById("deadline_countdown").innerHTML = "Countdown: " + days + "d " + hours + "h "
+            + minutes + "m " + seconds + "s ";
+          
+            
+            if (distance < 0) {
+              clearInterval(x);
+              document.getElementById("deadline_countdown").innerHTML = "PAST DUE!";
+            }
+          }, 1000);
+        </script>
+
+        <div class="content">
+          <h3>Deadline: February 28, 2024 at 11:59 p.m. CST</h3>
+          <h3><strong id="deadline_countdown">0d 19h 54m 50s</strong></h3>
+        </div>
+        
 
         
 
