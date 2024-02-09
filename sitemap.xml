@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://meducationx.org/categories/blog/</loc>
+    <loc>https://meducationx.org/categories/article/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://meducationx.org/post/</loc>
@@ -50,10 +50,10 @@
     <loc>https://meducationx.org/post/blog-1/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://meducationx.org/thankyou/</loc>
+    <loc>https://meducationx.org/about/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://meducationx.org/about/</loc>
+    <loc>https://meducationx.org/thankyou/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://meducationx.org/contact/</loc>
